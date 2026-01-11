@@ -33,6 +33,3 @@ This project captures hand motion data from Arduino hardware and translates it i
 
 **smuhammadkahaf**
 
----
-
-For more details, refer to the documentation in `Assets/TutorialInfo/`
